@@ -1,5 +1,3 @@
-좋습니다. 아래는 웹개발 예비 강의 전체 학습을 정리할 상위 디렉토리인 `Web_Study/`용 `README.md` 초안입니다.
-
 ---
 
 ```markdown
@@ -52,8 +50,8 @@
 
 ```Web_Study/
 ├── Week1/
-│   ├── Web1\_Summary.md
-│   ├── Web1\_QA.md
+│   ├── Web1_Summary.md
+│   ├── Web1_QA.md
 │   └── README.md
 ├── Week2/
 │   └── ...
